@@ -71,7 +71,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=VT323&size=31&pause=1000&color=1E46C0&center=true&width=435&lines=TENHA+UM+OTIMO+DIA!;MUITO+OBRIGADO!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=VT323&size=31&pause=100&color=262CBC&center=true&width=435&lines=TENHA+UM+OTIMO+DIA!;MUITO+OBRIGADO!" alt="Typing SVG" />
   </a>
 </div>
 
