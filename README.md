@@ -66,16 +66,18 @@
   <a href="https://open.spotify.com/intl-pt/track/42yUlhx59y7G7EmMx5hKc0?si=4e9aae2c08d64f69">
     <img src="https://cdn.discordapp.com/attachments/889644994233778228/1127685985761771580/New_pop_songs_playlist_-_podcast_sound_Facebook_post_1.png"  width="150px">
   </a>
-  <img src="https://media.giphy.com/media/SeFRMluv8ESbu/giphy.gif" alt="GIF" width="126px" style="margin-right:98px;">
+  <img src="https://media.giphy.com/media/ettKGFpjIRTNXtITNp/giphy.gif" alt="GIF" width="200px" style="margin-right:98px;">
 </div>
+
 
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=VT323&size=31&pause=100&color=262CBC&center=true&width=435&lines=TENHA+UM+OTIMO+DIA!;MUITO+OBRIGADO!" alt="Typing SVG" />
   </a>
 </div>
-
-
+<div align="center">
+  <img src="https://media.giphy.com/media/2zeji2UedvZzvIZ45N/giphy.gif" alt="GIF" style="width: 200px;">
+</div>
 
 
 
