@@ -1,24 +1,17 @@
-
 <div align="center">
   <img src="https://media.giphy.com/media/YRMb6dd7zprS00JdGZ/giphy.gif" alt="GIPHY Image" width="200" style="margin-bottom: 10px;">
 </div>
-
-<div align="center">
+<div align="center" style="margin-top: 50px;">
   <a href="https://www.linkedin.com/in/matheus-santos-73109526b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:matheuskennedyt@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   <a href="https://www.instagram.com/math_kennedy/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </div>
 
-<div align="center">
-  <h1><strong>HEY, ME CHAMO MATHEUS KENNEDY! 👋️</strong></h1>
+<h1 align="center">HEY 👋, ME CHAMO MATHEUS KENNEDY!</h1>
 </div>
-
 <div align="center">
   <p align="center">
     <a href="https://git.io/typing-svg">
@@ -26,72 +19,32 @@
     </a>
   </p>
 </div>
-
 <div>
-  <h2><strong>🧰🛠️ Habilidades</strong></h2>
-</div>
 <div align="center">
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python Icon" style="margin-right: 10px;">
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java Icon" style="margin-right: 10px;">
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL Icon" style="margin-right: 10px;">
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git Icon" style="margin-right: 10px;">
-  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="Microsoft SQL Server Icon">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mathk32&show_icons=true&locale=en" alt="mathk32" />
 </div>
-<div>
-  <h2><strong>:chart_with_upwards_trend: ⭐️ Contribuições</strong></h2>
-</div>
-<div style="position: fixed; bottom: 0; left: 0; width: 100%; text-align: center;">
-  <div align="center">
-    <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-      <div style="flex-basis: 33%; text-align: center;">
-        <a href="https://github.com/ryo-ma/github-profile-trophy">
-          <img src="https://github-profile-trophy.vercel.app/?username=mathk32&theme=tokyonight&row=2&column=3" alt="trophy">
-        </a>
-      </div>
-    </div>
-  </div>
-</div>
-
-<div>
-  <h2><strong>🎵Recomendações</strong></h2>
-</div>
+<h2 align="left"> :toolbox::hammer_and_wrench: <strong>Linguagens e Ferramentas:</h2>
+<p align="center"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+  <div>
+  <h2><strong>Recomendações</strong></h2>
 
 <div align="center">
-  <a href="https://open.spotify.com/intl-pt/track/0ZPquQV2aKmDfwPjvMdvRp?si=c0912e9147dc4eef">
-    <img src="https://cdn.discordapp.com/attachments/889644994233778228/1127684574370086972/New_pop_songs_playlist_-_podcast_sound_Facebook_post.jpg" alt="Nova Playlist de Pop" width="150px">
-  </a>
-  <a href="https://open.spotify.com/intl-pt/track/0zG0LzLbVueZll4drMFPgz?si=ab743c5be49949dc">
-    <img src="https://cdn.discordapp.com/attachments/889644994233778228/1127685640063025213/New_pop_songs_playlist_-_podcast_sound_Facebook_post.png" alt="Nova Playlist de Pop" width="150px">
-  </a>
-  <a href="https://open.spotify.com/intl-pt/track/42yUlhx59y7G7EmMx5hKc0?si=4e9aae2c08d64f69">
-    <img src="https://cdn.discordapp.com/attachments/889644994233778228/1127685985761771580/New_pop_songs_playlist_-_podcast_sound_Facebook_post_1.png"  width="150px">
-  </a>
-  <img src="https://media.giphy.com/media/ettKGFpjIRTNXtITNp/giphy.gif" alt="GIF" width="200px" style="margin-right:98px;">
+    <a href="https://open.spotify.com/playlist/5Pk25NqJWyCRJNPM9Spawy?si=a0f0a70b858e469d">
+      <img src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" alt="GIF" width="200px"></a>
+  <a href="https://www.imdb.com/user/ur170676800/watchlist">
+    <img src="https://media.giphy.com/media/lUbVzoeoqwsTM7nUhi/giphy.gif" alt="GIF" width="200px"></a>
+     <a href="https://www.crunchyroll.com/pt-br/series/GY190DKQR/mob-psycho-100">
+    <img src="https://media.giphy.com/media/weo3M5pyjYqwTmK9cq/giphy.gif" alt="GIF" width="200px"></a>
+     <a href="https://www.amazon.com.br/Demian-Hermann-Hesse/dp/850102029X/ref=asc_df_850102029X/?tag=googleshopp00-20&linkCode=df0&hvadid=379728827953&hvpos=&hvnetw=g&hvrand=691935068706754479&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9074170&hvtargid=pla-812191403231&psc=1">
+    <img src="https://media.giphy.com/media/XSmHWLpvdycR6xukzC/giphy.gif" alt="GIF" width="200px"></a>
 </div>
-
-
+<br>
+- :star: FATO CURIOSO: <string>O googolplex é tão grande que não há espaço suficiente no universo observável para todos os seus zeros.</string>
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=VT323&size=31&pause=100&color=262CBC&center=true&width=435&lines=TENHA+UM+OTIMO+DIA!;MUITO+OBRIGADO!" alt="Typing SVG" />
-  </a>
+    <a>
+      <img src="https://media.giphy.com/media/82ozVGY6TnFCBmSpLt/giphy.gif" alt="GIF" width="250px"></a>
+  <a>
+    <img src="https://media.giphy.com/media/NyMaiJVuPmPKcYbbKd/giphy.gif" alt="GIF" width="150px"></a>
+     
 </div>
-<div align="center">
-  <img src="https://media.giphy.com/media/2zeji2UedvZzvIZ45N/giphy.gif" alt="GIF" style="width: 200px;">
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
