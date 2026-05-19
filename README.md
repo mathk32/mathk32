@@ -10,16 +10,7 @@
     Bacharel em Matemática pela UFAL • Mestrando em Computação <br>
     Backend • Java • Spring Boot • Machine Learning • Otimização
   </p>
-
-  <a href="www.linkedin.com/in/matheuskt" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="https://www.instagram.com/math_kennedy/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</div>
-
+  
 ---
 
 ## 🛠️ Linguagens e Ferramentas
