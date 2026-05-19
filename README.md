@@ -11,7 +11,7 @@
     Backend • Java • Spring Boot • Machine Learning • Otimização
   </p>
 
-  <a href="https://www.linkedin.com/in/matheus-santos-73109526b" target="_blank">
+  <a href="www.linkedin.com/in/matheuskt" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
@@ -42,7 +42,6 @@
 - Machine Learning & Deep Learning
 - Backend com Spring Boot
 - Matemática Aplicada
-- OpenGL & XR
 - Otimização
 
 ---
